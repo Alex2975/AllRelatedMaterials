@@ -1,8 +1,9 @@
-# User Community
+# Business Proposal Writing and Templates
 
-# Problem
+# What is a well-designed system, that includes software, hardware?
 
-# Solution
-
-# Uniqe point of the solution
-
+* The system should be secure.
+* The system should have good data flow.
+* The system should be remotely accessable. 
+* Data should be FAIR.
+* Data should have good ontology
