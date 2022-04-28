@@ -1,0 +1,30 @@
+,Name,Link,Usage
+0,Pubmed,https://pubmed.ncbi.nlm.nih.gov/,Search for publications
+1,Google Scholar,https://scholar.google.com/,Search for publications
+2,Sci-hub,https://sci-hub.se/,Search for publications
+3,Researchgate,https://www.researchgate.net/,Search for publications and contact authors
+4,Ablesci,https://www.ablesci.com/,Search for publications
+5,Genecards,https://www.genecards.com/,Search for gene information
+6,Uniprot,https://www.uniprot.com/,Search for protein information
+7,Gene Ontology,http://geneontology.org/,Search for gene information
+8,KEGG,https://www.genome.jp/kegg/kegg2.html/,Search for pathway information
+9,Reactome,https://www.genome.jp/kegg/kegg2.html/,Search for pathway information
+10,NCBI Blast,https://blast.ncbi.nlm.nih.gov/Blast.cgi,Search for gene or protein sequences
+11,Clustal Omega,https://www.ebi.ac.uk/Tools/msa/clustalo/,Multiple Sequence Alignment
+12,Primerbank,https://pga.mgh.harvard.edu/primerbank/,Search for PCR primers
+13,CHOPCHOP,https://chopchop.cbu.uib.no/,Search for sgRNA
+14,CRISPick,https://portals.broadinstitute.org/gppx/crispick/public,Search for sgRNA
+15,GFP portal,https://portals.broadinstitute.org/gpp/public/gene/details?geneId=GFP,Search for shRNA
+16,Addgene,https://www.addgene.org,Search for plasmids
+17,Snapgene,https://www.snapgene.com/resources/plasmid-files/,Search for plasmids
+18,GEPIA,http://gepia.cancer-pku.cn/,Gene expression analysis platform
+19,Kaplan-Meier,https://kmplot.com/,Survival analysis on gene expression
+20,R2,https://hgserver1.amc.nl/cgi-bin/r2/main.cgi,Gene expression database
+21,Chemical Index Database,https://www.drugfuture.com/,Chemical index database
+22,Inactive Ingredient Search for Approved Drug Products,https://www.drugfuture.com/,IIG query
+23,Handbook of Pharmaceutical Excipients,https://www.drugfuture.com/,Excipients
+24,U.S. FDA Drugs Database,https://www.drugfuture.com/,FDA
+25,Chinese Marketed Drugs Database,https://www.drugfuture.com/,Cndrug
+26,Chemical Toxicity Database,https://www.drugfuture.com/,toxic
+27,Drugbank,https://go.drugbank.com/,Excipients
+28,Medpeer,http://pharmacy.medpeer.cn/,Medpeer
